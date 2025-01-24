@@ -56,7 +56,7 @@ with col1:
     st.markdown(
         '<div class="profile-pic-container">', unsafe_allow_html=True
     )
-    st.image("/Users/sameekshashekhar/Desktop/Personal-Portfolio/shreyas_9882.jpg", width=200)  # Provide the correct path to the image
+    st.image("shreyas_9882.jpg", width=200)  # Provide the correct path to the image
     st.markdown("</div>", unsafe_allow_html=True)
 
 with col2:
